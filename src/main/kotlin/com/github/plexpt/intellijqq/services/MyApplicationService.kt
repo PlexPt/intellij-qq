@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.plexpt.intellijqq.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.plexpt.intellijqq.MyBundle
 
 class MyApplicationService {
 
